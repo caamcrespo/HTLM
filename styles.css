@@ -1,0 +1,71 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: pink;
+    color: black;
+    margin: 20px;
+  }
+
+  
+.logo{
+    width: 35vw;
+}
+
+
+.title1{
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-size: 30px;
+    
+          
+}
+
+
+.boton {
+    border: 1px solid black; 
+    width: auto;
+    padding: 2px 2em 2px 2em;
+    font-weight: bolder;
+ 
+}
+
+.boton:hover {
+    background-color: violet;
+}
+
+.dormitorio{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+#moverjuntos {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#principal {  
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    
+
+}
+
+
+#contenedor {
+display: flex; 
+justify-content: space-around;
+        
+}
